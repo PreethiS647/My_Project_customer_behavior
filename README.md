@@ -52,13 +52,19 @@ Clean data ensures accurate analysis and visualization.
 
 The cleaned dataset is loaded into a SQL database. SQL queries are written to:
 
+
+
+<img width="1919" height="1067" alt="image" src="https://github.com/user-attachments/assets/09e4d81b-77cd-4d29-a479-b2bbaf3a1d03" />
+
+
+
 Aggregate data
 Filter records
 Group data
 Calculate metrics
 Extract business insights
 
-These queries help in answering key analytical questions.
+These queries help in answering key analytical questions in pdAdmin4
 
 ### 5. Power BI Dashboard
 
