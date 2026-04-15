@@ -1,5 +1,20 @@
 # My_Project_customer_behavior
-data analytics Project showcasing customer behavior analysis using python , sql and powerbi
+
+This project focuses on Customer Behavior Analysis, a key area in data analytics that helps businesses understand how customers interact with products and services.
+
+The main objective of this project is to analyze customer data and extract meaningful insights that can support data-driven decision making. By studying customer patterns, purchase behavior, and trends, businesses can improve marketing strategies, increase customer satisfaction, and boost overall performance.
+
+This project follows a complete end-to-end data analytics pipeline, starting from raw data collection to final visualization and reporting.
+
+The workflow includes:
+
+Data loading and exploration using Python
+Data cleaning and transformation for better accuracy
+Querying and extracting insights using SQL
+Building interactive dashboards using Power BI
+
+Through this project, real-world business problems are translated into analytical solutions using modern data tools and techniques.
+
 
 <img width="751" height="444" alt="image" src="https://github.com/user-attachments/assets/3871bb89-ada7-4697-a48f-3419154fde39" />
 
