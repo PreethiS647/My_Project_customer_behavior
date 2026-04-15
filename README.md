@@ -64,6 +64,10 @@ These queries help in answering key analytical questions.
 
 An interactive Power BI dashboard is created to visualize:
 
+
+<img width="1717" height="1019" alt="image" src="https://github.com/user-attachments/assets/58d874f1-f006-4164-b8c0-ff2af785772d" />
+
+
 Key performance indicators (KPIs)
 Trends and patterns
 Category comparisons
