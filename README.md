@@ -28,19 +28,22 @@ This project demonstrates a complete end-to-end data analytics workflow. The obj
 
 The dataset used in this project contains structured data relevant to the analysis objective. It includes multiple features such as numerical and categorical variables that help identify patterns, trends, and relationships. The dataset is first loaded for exploration and then prepared for further analysis through cleaning and transformation.
 
+
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/64362138-c61a-453c-95fa-0e4d1bfd2935" />
+
 ## Tools Used
 Python – Used for data loading, exploration, and cleaning
 SQL (PostgreSQL / MySQL / SQL Server) – Used for querying and extracting insights
 Power BI – Used to create interactive dashboards and visualizations
-Gamma – Used to create the final report and presentation
+
+
+<img width="751" height="444" alt="image" src="https://github.com/user-attachments/assets/3871bb89-ada7-4697-a48f-3419154fde39" />
+
+
 ## Project Workflow
 ### 1. Loading the Dataset
 
 The dataset is imported into the analysis environment. This step ensures that the data is available for exploration and processing.
-
-
-
-<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/64362138-c61a-453c-95fa-0e4d1bfd2935" />
 
 
 <img width="1853" height="1012" alt="image" src="https://github.com/user-attachments/assets/b65e4678-b928-43af-b79b-e79d0654153d" />
