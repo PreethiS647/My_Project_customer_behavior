@@ -1,6 +1,7 @@
 # My_Project_customer_behavior
 data analytics Project showcasing customer behavior analysis using python , sql and powerbi
 
+<img width="751" height="444" alt="image" src="https://github.com/user-attachments/assets/3871bb89-ada7-4697-a48f-3419154fde39" />
 
 
 
@@ -22,6 +23,14 @@ Gamma – Used to create the final report and presentation
 
 The dataset is imported into the analysis environment. This step ensures that the data is available for exploration and processing.
 
+
+
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/64362138-c61a-453c-95fa-0e4d1bfd2935" />
+
+
+<img width="1853" height="1012" alt="image" src="https://github.com/user-attachments/assets/b65e4678-b928-43af-b79b-e79d0654153d" />
+
+
 ### 2. Exploratory Data Analysis (EDA)
 
 EDA is performed to understand:
@@ -38,6 +47,10 @@ This step helps in identifying patterns and planning the data cleaning process.
 ### 3. Data Cleaning
 
 The dataset is cleaned to improve data quality. This includes:
+
+
+<img width="1575" height="954" alt="image" src="https://github.com/user-attachments/assets/107e8dbf-8aa8-477f-a0aa-c62d5afb4191" />
+
 
 Handling missing values
 Removing duplicates
